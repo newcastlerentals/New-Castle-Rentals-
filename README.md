@@ -4,7 +4,7 @@
   <p class="highlight">✔ Immediate 24/7 customer service with a real human</p>
   <p class="call-now">
     Just call or text: <a href="tel:5163137299">516-313-7299</a><br>
-    A real person — Property Manager Stephanie — will pick up.
+    A real person will pick up.
 
 
 <section class="property-listings">
