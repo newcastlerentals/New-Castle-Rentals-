@@ -28,7 +28,7 @@
 
   <div class="property-card">
     <h3>1102 Pollock Ave (address is 1106 on Zillow for algorithm)</h3>
-    <p>2 bed · 1 bath · Convenient location · Updated kitchen</p>
+    <p>2 bed · 1 bath · Fenced in yard · Brand new fridge & stove</p>
     <a href="https://www.zillow.com/homedetails/1106-Pollock-Ave-New-Castle-PA-16101/93630713_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare" target="_blank">
       View on Zillow →
     </a>
