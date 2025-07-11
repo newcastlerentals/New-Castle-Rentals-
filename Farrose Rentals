@@ -1,65 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Your Name</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      max-width: 600px;
-      margin: 40px auto;
-      padding: 0 20px;
-      line-height: 1.6;
-      color: #111;
-      background: #fefefe;
-    }
-    h1, h2 {
-      margin-top: 1.5em;
-    }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    nav {
-      margin-bottom: 2em;
-    }
-    nav a {
-      margin-right: 15px;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>Your Name</h1>
-  <p>Simple site. No bullshit. Just what I’m building, learning, and thinking about.</p>
-
-  <nav>
-    <a href="/">Home</a>
-    <a href="#about">About</a>
-    <a href="#projects">Projects</a>
-    <a href="mailto:your@email.com">Contact</a>
-  </nav>
-
-  <h2 id="about">About</h2>
-  <p>I build things. Mostly real estate, sometimes software. Based in Long Beach, NY. I like working alone, walking 10 miles a day, and good design.</p>
-
-  <h2 id="projects">Projects</h2>
-  <ul>
-    <li><strong>Farrose LLC</strong> – My real estate company. 20+ properties, all self-managed.</li>
-    <li><strong>Rental Automator (coming soon)</strong> – A tool to automate rent rolls and tax prep for landlords.</li>
-    <li><strong>PrintAI (in progress)</strong> – Upload your photo, get a watercolor print mailed to you. AI + Etsy vibes.</li>
-  </ul>
-
-  <h2>Now</h2>
-  <p>Walking a lot. Shipping small things. Trying not to overcomplicate life. Inspired by Derek Sivers & Paul Graham.</p>
-
-  <footer style="margin-top: 3em; font-size: 0.9em;">
-    <p>&copy; 2025 Your Name. Built with raw HTML like it’s 1999.</p>
-  </footer>
-
-</body>
-</html>
+<section class="contact-info">
+  <h2>Contact Us</h2>
+  <p><strong>Business Mailing Address:</strong><br>
+     118 Willis Ave, Albertson, NY 11507</p>
+  <p><strong>Call or Text for Immediate Response:</strong><br>
+     <a href="tel:5163137299">516-313-7299</a><br>
+     Property Manager Stephanie will answer right away.</p>
+  <p><strong>Pet Policy:</strong><br>
+     Pets are welcome at all our properties with no additional fees.</p>
+  <p><strong>Why Us?</strong><br>
+     We’re local, responsive, and simply the best in the area.</p>
+</section>
