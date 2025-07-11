@@ -19,7 +19,7 @@
   </div>
 
   <div class="property-card">
-    <h3>1112 Williams St (address is 1116 on Zillow for privacy)</h3>
+    <h3>1112 Williams St (address is 1116 on Zillow for algorithm)</h3>
     <p>2 bed · 1 bath · Quiet street · Cozy interior</p>
     <a href="https://www.zillow.com/homedetails/1116-Williams-St-New-Castle-PA-16101/93629971_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare" target="_blank">
       View on Zillow →
@@ -27,7 +27,7 @@
   </div>
 
   <div class="property-card">
-    <h3>1102 Pollock Ave (address is 1106 on Zillow for privacy)</h3>
+    <h3>1102 Pollock Ave (address is 1106 on Zillow for algorithm)</h3>
     <p>2 bed · 1 bath · Convenient location · Updated kitchen</p>
     <a href="https://www.zillow.com/homedetails/1106-Pollock-Ave-New-Castle-PA-16101/93630713_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare" target="_blank">
       View on Zillow →
