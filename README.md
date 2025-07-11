@@ -50,5 +50,5 @@
  <p class="email">
     📧 Email: <a href="mailto:newcastleparentals@gmail.com">newcastleparentals@gmail.com</a>
   </p>
-</section>
+
 
