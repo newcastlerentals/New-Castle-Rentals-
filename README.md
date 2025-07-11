@@ -20,7 +20,7 @@
 
   <div class="property-card">
     <h3>1112 Williams St (address is 1116 on Zillow for algorithm)</h3>
-    <p>2 bed · 1 bath · Quiet street · Cozy interior</p>
+    <p>2 bed · 1 bath · Central A/C · Cozy interior</p>
     <a href="https://www.zillow.com/homedetails/1116-Williams-St-New-Castle-PA-16101/93629971_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare" target="_blank">
       View on Zillow →
     </a>
