@@ -41,19 +41,7 @@
 </section>
 <!-- Your existing site content -->
 
-<section>
-  <h2>City of New Castle Contact</h2>
-  <p><strong>Municipal Building</strong><br>
-  230 N. Jefferson Street<br>
-  New Castle, PA 16101<br>
-  Monday – Friday: 8:30 AM – 3:30 PM</p>
 
-  <p><strong>Eleanor Rozzi</strong><br>
-  Code Enforcement Clerk<br>
-  <a href="mailto:code-rozzi@newcastlepa.org">code-rozzi@newcastlepa.org</a><br>
-  Phone: <a href="tel:+17246563539">(724) 656-3539</a></p>
-</section>
-  </p>
   <p class="address">
     📬 Business Mailing Address:<br>
     1188 Willis Ave, Albertson, NY 11507
