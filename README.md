@@ -11,6 +11,14 @@
   <h2>Available Rentals</h2>
 
   <div class="property-card">
+    <h3>1326 E Washington St</h3>
+    <p>2 bed · 1 bath · Includes garage · Central A/C · Unique storefront conversion</p>
+    <a href="https://www.zillow.com/homedetails/1326-E-Washington-St-New-Castle-PA-16101/2103193548_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare" target="_blank">
+      View on Zillow →
+    </a>
+  </div>
+
+  <div class="property-card">
     <h3>1116 Williams St</h3>
     <p>2 bed · 1 bath · Quiet street · Cozy interior</p>
     <a href="https://www.zillow.com/homedetails/1116-Williams-St-New-Castle-PA-16101/93629971_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare" target="_blank">
