@@ -54,5 +54,4 @@
   Phone: <a href="tel:+17246563539">(724) 656-3539</a></p>
 </section>
 
-</body>
 
