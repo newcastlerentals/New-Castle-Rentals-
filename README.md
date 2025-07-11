@@ -5,11 +5,7 @@
   <p class="call-now">
     Just call or text: <a href="tel:5163137299">516-313-7299</a><br>
     A real person — Property Manager Stephanie — will pick up.
-  </p>
-  <p class="address">
-    📬 Business Mailing Address:<br>
-    1188 Willis Ave, Albertson, NY 11507
-  </p>
+
 </section>
 <section class="property-listings">
   <h2>Available Rentals</h2>
@@ -53,5 +49,10 @@
   <a href="mailto:code-rozzi@newcastlepa.org">code-rozzi@newcastlepa.org</a><br>
   Phone: <a href="tel:+17246563539">(724) 656-3539</a></p>
 </section>
+  </p>
+  <p class="address">
+    📬 Business Mailing Address:<br>
+    1188 Willis Ave, Albertson, NY 11507
+  </p>
 
 
