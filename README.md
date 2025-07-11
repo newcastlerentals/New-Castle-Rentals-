@@ -6,7 +6,7 @@
     Just call or text: <a href="tel:5163137299">516-313-7299</a><br>
     A real person — Property Manager Stephanie — will pick up.
 
-</section>
+
 <section class="property-listings">
   <h2>Available Rentals</h2>
 
