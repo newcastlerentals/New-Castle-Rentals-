@@ -18,13 +18,12 @@
     </a>
   </div>
 
-  <div class="property-card">
-    <h3>1112 Williams St (address is 1116 on Zillow for algorithm)</h3>
-    <p>2 bed · 1 bath · Central A/C · Detached garage</p>
-    <a href="https://www.zillow.com/homedetails/1116-Williams-St-New-Castle-PA-16101/93629971_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare" target="_blank">
-      View on Zillow →
-    </a>
-  </div>
+<div class="property-card">
+  <h3>1112 William St (address is 1116 on Zillow for algorithm)</h3>
+  <img src="IMG_9749.jpeg" alt="Kitchen at 1112 William St" style="width:100%; max-width:400px; margin-bottom: 10px;">
+  <p>2 bed · 1 bath · Central A/C · Detached garage</p>
+  <a href="https://www.zillow.com/homedetails/1116-Williams-St-New-Castle-PA-16101/93629971_zpid/">View on Zillow →</a>
+</div>
 
   <div class="property-card">
     <h3>1102 Pollock Ave (address is 1106 on Zillow for algorithm)</h3>
