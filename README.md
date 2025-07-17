@@ -31,6 +31,12 @@
   <a href="https://www.zillow.com/homedetails/1605-S-Jefferson-St-New-Castle-PA-16102/107327067_zpid/">View on Zillow →</a>
 </div>
 
+<div class="property-card">
+  <h3>512 Electric St</h3>
+  <p>5 bed · 2 bath · Massive house · Pet-friendly · Big yard</p>
+  <a href="https://www.zillow.com/homedetails/512-Electric-St-New-Castle-PA-16101/93630775_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare" target="_blank">View on Zillow →</a>
+</div>
+
 </section>
 <!-- Your existing site content -->
 
