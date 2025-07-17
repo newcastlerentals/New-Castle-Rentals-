@@ -37,7 +37,6 @@
 <p>5 bed · 2 bath · Massive house · Pet-friendly · Big yard</p>
 <a href="https://www.zillow.com/homedetails/512-Electric-St-New-Castle-PA-16101/93630775_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare" target="_blank">View on Zillow →</a>
 
-</section>
 <!-- Your existing site content -->
 
 
