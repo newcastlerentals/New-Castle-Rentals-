@@ -32,10 +32,10 @@
 </div>
 
 <div class="property-card">
-  <h3>512 Electric St</h3>
-  <p>5 bed · 2 bath · Massive house · Pet-friendly · Big yard</p>
-  <a href="https://www.zillow.com/homedetails/512-Electric-St-New-Castle-PA-16101/93630775_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare" target="_blank">View on Zillow →</a>
-</div>
+<h3>512 Electric St</h3>
+<img src="IMG_0708.jpeg" alt="512 Electric St exterior" style="width:100%; max-width:400px; margin-bottom:10px;">
+<p>5 bed · 2 bath · Massive house · Pet-friendly · Big yard</p>
+<a href="https://www.zillow.com/homedetails/512-Electric-St-New-Castle-PA-16101/93630775_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare" target="_blank">View on Zillow →</a>
 
 </section>
 <!-- Your existing site content -->
