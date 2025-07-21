@@ -19,9 +19,9 @@
 
 <div class="property-card">
   <h3>1605 S Jefferson St</h3>
-  <img src="IMG_0234.jpeg" alt="1605 S Jefferson St" style="width:100%; max-width:400px; margin-bottom: 10px;">
+  <img src="IMG_0234.jpeg" alt="1605 S Jefferson St" (1603 for algorithm)style="width:100%; max-width:400px; margin-bottom: 10px;">
   <p>3 bed · 1 bath · Second floor laundry · Wrap-around balcony · Pet-friendly (no fee)</p>
-  <a href="https://www.zillow.com/homedetails/1605-S-Jefferson-St-New-Castle-PA-16102/107327067_zpid/">View on Zillow →</a>
+  <a href="https://www.zillow.com/homedetails/1603-S-Jefferson-St-New-Castle-PA-16102/86523712_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare/">View on Zillow →</a>
 </div>
 
 <div class="property-card">
